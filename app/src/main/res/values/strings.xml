@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">GitConnect</string>
+    <string name="searchbar_hint">Connect with your friends</string>
+    <string name="username">Username</string>
+    <string name="name">name_profile</string>
+    <string name="tab_text_1">Followers</string>
+    <string name="tab_text_2">Following</string>
+    <string name="total_followers">000 Followers</string>
+    <string name="total_following">000 Following</string>
+    <string name="menu1">Favorite</string>
+    <string name="menu2">Settings</string>
+    <string name="fab_favorite">favorite</string>
+    <string name="not_found">Tidak ditemukan</string>
+    <string name="dark_mode">Turn into Dark Mode</string>
+</resources>
